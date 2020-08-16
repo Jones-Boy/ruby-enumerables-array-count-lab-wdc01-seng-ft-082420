@@ -1,4 +1,7 @@
 def count_strings(array)
+  array_1 = ["", "hello", "world", 4, 1, 5, [], {}]
+  array.count("")
+end
   # Return the total number of strings in the provided array using the count enumerable
 end
 
